@@ -1,2 +1,3 @@
 # datasciencecoursera
-Reop for first peer graded assignment
+Repo for first peer graded assignment
+
